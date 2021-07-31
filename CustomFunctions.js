@@ -1,3 +1,3 @@
-function Open(url) {
- window.open(url) 
+function helloworld() {
+ alert("Hello World")
 }
